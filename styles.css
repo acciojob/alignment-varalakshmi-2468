@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+
+.main-heading {
+    text-align: center;
+}
+
+
+table {
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 1px;
+}
+
+
+.middle {
+    margin: 20px auto;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
